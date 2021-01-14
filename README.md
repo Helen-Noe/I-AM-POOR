@@ -5,4 +5,4 @@ An iOS app that show an image and a label
 The purpose is to make myself familiar with the Xcode Storyboard and Interface Builder.
 
 ### What does it look like
-![app image](https://github.com/Helen-Noe/I-AM-POOR/blob/main/I_AM_POOR_iPhone11.png)
+<img src="https://github.com/Helen-Noe/I-AM-POOR/blob/main/I_AM_POOR_iPhone11.png" width="414" height="896">
